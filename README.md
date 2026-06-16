@@ -9,7 +9,9 @@ This repository contains the core design artifacts for the **Industrial Products
   - Prepared by **Ruhaan Joshi**.
 - `tatasupplychaincoltd-dbmsproject-tablestructure.xlsx`
   - Detailed table-wise schema, columns, keys, and descriptions, prepared by **Mrunal Warange**.
-  - Database Files containing Sample Data by **Mrunal Warange**.
+## Sample Data for Database Representation
+Database Files containing Sample Data by **Mrunal Warange**.
+
 ## How this design works
 
 The design models an end-to-end procurement and material flow process:
