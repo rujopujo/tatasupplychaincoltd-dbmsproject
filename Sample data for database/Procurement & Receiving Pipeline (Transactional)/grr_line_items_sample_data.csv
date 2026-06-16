@@ -1,0 +1,6 @@
+GRRLineID,GRRNo,PartNo,ChallanQty,ReceivedQty,Remarks
+8001,7001,P001,1000.0,1000.0,Exact qty matched
+8002,7002,P002,200.0,198.0,2 rods bent during transit
+8003,7003,P003,300.0,300.0,Standard inspection passed
+8004,7004,P004,30.0,30.0,Remaining 20 pending
+8005,7005,P005,20.0,18.0,2 coils damaged by water

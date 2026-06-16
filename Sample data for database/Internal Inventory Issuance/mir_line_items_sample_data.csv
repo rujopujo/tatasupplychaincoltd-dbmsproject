@@ -1,0 +1,6 @@
+MIRLineID,MIRNo,PartNo,QtyIssued,IssuedRate,Remarks
+20001,10001,P001,250.0,120.0,Batch 1 issue
+20002,10002,P002,50.0,250.5,First draw
+20003,10003,P003,20.0,45.0,Emergency replacement
+20004,10004,P004,5.0,350.0,Urgent request
+20005,10005,P005,2.0,1800.0,Scheduled installation

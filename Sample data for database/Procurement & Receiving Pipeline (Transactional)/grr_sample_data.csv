@@ -1,0 +1,6 @@
+GRRNo,ChallanDate,ChallanNo,POID,VendorCode,TransporterID,ReceivedDate,Remarks
+7001,2026-05-06,CH-9921,5001,V001,1,2026-05-08,Material looks intact
+7002,2026-05-14,CH-4012,5002,V002,2,2026-05-15,Palletized cargo
+7003,2026-05-14,CH-8831,5003,V003,3,2026-05-15,Boxed package
+7004,2026-05-16,CH-1102,5004,V004,4,2026-05-17,Partial delivery verified
+7005,2026-05-20,CH-3329,5005,V005,5,2026-05-22,Delayed transit delivery

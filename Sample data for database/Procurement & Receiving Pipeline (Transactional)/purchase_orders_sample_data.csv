@@ -1,0 +1,6 @@
+POID,PODate,VendorCode,TotalAmount,Status,Remarks
+5001,2026-05-01,V001,118500.0,Completed,Urgent structural steel
+5002,2026-05-05,V002,49600.0,Completed,Aluminium for line 2
+5003,2026-05-10,V003,13050.0,Completed,Replenishment
+5004,2026-05-12,V004,17250.0,Partial Delivery,Stock backup
+5005,2026-05-15,V005,35000.0,Pending,Annual wire maintenance

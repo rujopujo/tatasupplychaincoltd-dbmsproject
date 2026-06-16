@@ -1,0 +1,6 @@
+PartNo,PartCategory,Description,UnitOfMeasure,UnitRate,OpeningStock,MinimumStock,OrderQuantity
+P001,Raw Material,Steel Sheet 2mm,Kg,120.0,1500.0,500.0,1000.0
+P002,Raw Material,Aluminum Rod 10mm,Meter,250.5,800.0,200.0,500.0
+P003,Finished Part,Ball Bearing 6204,Nos,45.0,500.0,100.0,300.0
+P004,Finished Part,Hex Bolt M8,Box,350.0,120.0,30.0,50.0
+P005,Raw Material,Copper Wire 1.5mm,Coil,1800.0,50.0,15.0,25.0

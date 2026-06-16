@@ -1,0 +1,6 @@
+VendorCode,VendorName,Address,City,Phone,Email,PaymentTerms
+V001,Tata Steel Ltd,"Jamshedpur, Jharkhand",Jamshedpur,9876543210,sales@tatasteel.com,Net 30
+V002,Hindalco Industries,"Mundra, Gujarat",Mundra,9876543211,info@hindalco.aditya.com,Net 45
+V003,SKF India Bearings,"Pune, Maharashtra",Pune,9876543212,orders@skf.com,Immediate
+V004,Fastener Corp,"Ludhiana, Punjab",Ludhiana,9876543213,contact@fastenercorp.in,Net 60
+V005,Finolex Cables,"Pimpri, Pune",Pune,9876543214,supply@finolex.com,Net 30
